@@ -1,1 +1,1 @@
-# rsschool-cv
+https://PandaGrom.github.io/rsschool-cv/cv
