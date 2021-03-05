@@ -7,3 +7,4 @@ https://github.com/PandaGrom
 At the moment, I just started to pour into the IT sphere." 
 Took courses at the html academy
 English lvl: A2
+gd
