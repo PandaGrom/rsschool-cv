@@ -1,0 +1,26 @@
+* {
+      padding: 0;
+    }
+    
+    body {
+      font-family: 'Shippori Mincho B1', serif;
+      font: 16px ;
+      background-color: rgb(219, 123, 59);
+    }
+    
+    .conteiner {
+      width: 500px;
+      margin: 0 auto;
+      padding: 0 10px;
+    }
+    
+    .header {
+      padding: 10px 0;
+    }
+    
+    .header img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+    }
+  
